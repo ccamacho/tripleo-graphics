@@ -1,5 +1,5 @@
-TripleO cheatsheet.
+TripleO cheatsheet(s).
 
-This is a brief cheatsheet with some
+These are some brief cheatsheets with
 relevant commands related to upstream
 TripleO deployments.
