@@ -1,5 +1,6 @@
-TripleO cheatsheet(s).
+TripleO graphics repo.
 
-These are some brief cheatsheets with
-relevant commands related to upstream
-TripleO deployments.
+Some graphic designs related to TripleO.
+
+- Cheatsheets: A few cheatsheets with relevant commands related to TripleO.
+- X-mas: Some TripleO x-mas card designs.
